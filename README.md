@@ -1,6 +1,6 @@
 What is KOMA-Matlab?
 =======================
-KOMA-Matlab is the legacy MATLAB-based part of KOMA. This has not been developed for years, and the [Python version](https://knutankv.github.io/koma/) is the most up to date. Please refer to that repository for updated information. 
+KOMA-Matlab is the legacy MATLAB-based part of KOMA. This has not been developed for years, and the [Python version](https://github.com/knutankv/koma/) is the most up to date. Please refer to that repository for updated information. 
 
 References
 =======================
@@ -21,7 +21,7 @@ Carlo Rainieri and Giovanni Fabbrocino. Operational Modal Analysis of Civil Engi
 
 Citation
 =======================
-Zenodo research entry for [Python version](https://knutankv.github.io/koma/):
+Zenodo research entry for [Python version](https://github.com/knutankv/koma/):
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10277112.svg)](https://doi.org/10.5281/zenodo.10277112)
 
 
